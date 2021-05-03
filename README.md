@@ -19,8 +19,8 @@ Run test.py in the virtual env.
 
 Note: 
 * This demo uses the tensorflow version of SRNET. Change the code to the pytorch version (on my github).
-* Streamlit is extremely slow because it has to load weights for the CRAFT model as well as for the SRNET model. Find a way to change this.
+* Streamlit is extremely slow because it has to load weights for the CRAFT model as well as for the SRNET model. Find a way to change this. Feel free to build from scratch.
 * You could perhaps write a script for the bounding box detection and remove the craft model.
 * I won't be able to help / assist because I'm extremely busy.
 
-Please maintain this repo however you see fit. Once you have a fast demo running, you can perhaps opensource it through this repo. 
+Please maintain this codebase however you see fit. Once you have a fast demo running, you can opensource it through this repo. You'll get all credit of course.
